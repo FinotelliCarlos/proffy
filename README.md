@@ -7,6 +7,7 @@
 <div align="center">
   📋 <strong>Índice</strong>
 </div>
+<br>
 
 - [Sobre](#-Sobre)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
@@ -17,6 +18,7 @@
 <div align="center">
   📖 <strong>Sobre</strong>
 </div>
+<br>
 
 Este é um projeto desenvolvido durante a NLW, realizada pela [@Rocketseat] durante os dias 3 a 9 de Agosto de 2020.
 O objetivo do projeto é uma aplicação que possa ligar quem quer aprender com quequer ensinar. 
@@ -27,6 +29,7 @@ Aonde possível encontrar alunos ou encontrar o professor para aquela aula sobre
 <div align="center">
   🚀 <strong>Tecnologias utilizadas</strong>
 </div>
+<br>
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -42,6 +45,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <div align="center">
   ⌨ <strong>Como executar o projeto</strong>
 </div>
+<br>
 
 ```bash
 # Clonar o repositório
