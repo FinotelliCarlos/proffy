@@ -1,8 +1,8 @@
 
-<div style="text-align:center">
+<div align="center">
   <img src="public/images/landing.svg" />
 </div>
-  
+
 ## 📋 Índice
 
 - [Sobre](#-Sobre)
