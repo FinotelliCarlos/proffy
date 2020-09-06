@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  # 📋 Índice
+  ### 📋 Índice
 </div>
 
 - [Sobre](#-Sobre)
@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  # 📖 Sobre
+  ### 📖 Sobre
 </div>
 
 Este é um projeto desenvolvido durante a NLW, realizada pela [@Rocketseat] durante os dias 3 a 9 de Agosto de 2020.
@@ -25,7 +25,7 @@ Aonde possível encontrar alunos ou encontrar o professor para aquela aula sobre
 --- 
 
 <div align="center">
-  # 🚀 Tecnologias utilizadas
+  ### 🚀 Tecnologias utilizadas
 </div>
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -40,7 +40,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 --- 
 
 <div align="center">
-  # ⌨ Como executar o projeto
+  ### ⌨ Como executar o projeto
 </div>
 
 ```bash
