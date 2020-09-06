@@ -1,3 +1,5 @@
+![](public/images/landing.svg)
+
 ## 📋 Índice
 
 - [Sobre](#-Sobre)
