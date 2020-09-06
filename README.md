@@ -1,6 +1,6 @@
 
 <div style="text-align:center">
-  ![](public/images/landing.svg)
+  <img src="public/images/landing.svg" />
 </div>
   
 ## 📋 Índice
