@@ -35,7 +35,7 @@ Aonde possível encontrar alunos ou encontrar o professor para aquela aula sobre
 <div align="center">
   ⚡ <strong>PreviewDesktop</strong>
 <br>
-<img width="60%" src="preview/desktopproffy.gif" />
+<img width="100%" src="preview/desktopproffy.gif" />
 
 ---
 
