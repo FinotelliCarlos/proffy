@@ -1,8 +1,12 @@
+<br>
+
+<div align="center">
+  <img src="public/images/logo.svg" />
+</div>
 
 <div align="center">
   <img src="public/images/landing.svg" />
 </div>
-
 
 <div align="center">
   📋 <strong>Índice</strong>
@@ -10,6 +14,8 @@
 <br>
 
 - [Sobre](#-Sobre)
+- [PreviewDesktop](#-PreviewDesktop)
+- [PreviewMobile](#-PreviewMobile)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Como executar o projeto](#-Como-executar-o-projeto)
 
@@ -23,6 +29,21 @@
 Este é um projeto desenvolvido durante a NLW, realizada pela [@Rocketseat] durante os dias 3 a 9 de Agosto de 2020.
 O objetivo do projeto é uma aplicação que possa ligar quem quer aprender com quequer ensinar. 
 Aonde possível encontrar alunos ou encontrar o professor para aquela aula sobre a materia que você sempre quis aprender!
+
+---
+
+<div align="center">
+  ⚡ <strong>PreviewDesktop</strong>
+<br>
+<img width="60%" src="preview/desktopproffy.gif" />
+
+---
+
+<div align="center">
+  ⚡ <strong>PreviewMobile</strong>
+<br>
+<img src="preview/mobileproffy.gif" />
+</div>
 
 --- 
 
