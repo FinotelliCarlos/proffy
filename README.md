@@ -1,3 +1,4 @@
+<br>
 
 <div align="center">
   <img src="public/images/logo.svg" />
@@ -6,7 +7,6 @@
 <div align="center">
   <img src="public/images/landing.svg" />
 </div>
-
 
 <div align="center">
   📋 <strong>Índice</strong>
