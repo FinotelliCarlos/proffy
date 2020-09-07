@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="public/images/logo.svg" />
+</div>
+
+<div align="center">
   <img src="public/images/landing.svg" />
 </div>
 
