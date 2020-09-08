@@ -14,8 +14,8 @@
 <br>
 
 - [Sobre](#-Sobre)
-- [Preview WEB Desktop](#-Preview WEB Desktop)
-- [Preview WEB Mobile](#-Preview WEB Mobile)
+- [Preview WEB Desktop](#-Preview-WEB-Desktop)
+- [Preview WEB Mobile](#-Preview-WEB-Mobile)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Como executar o projeto](#-Como-executar-o-projeto)
 
