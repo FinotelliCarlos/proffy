@@ -14,8 +14,8 @@
 <br>
 
 - [Sobre](#-Sobre)
-- [PreviewDesktop](#-PreviewDesktop)
-- [PreviewMobile](#-PreviewMobile)
+- [Preview WEB Desktop](#-Preview WEB Desktop)
+- [Preview WEB Mobile](#-Preview WEB Mobile)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Como executar o projeto](#-Como-executar-o-projeto)
 
@@ -33,7 +33,7 @@ Aonde possível encontrar alunos ou encontrar o professor para aquela aula sobre
 ---
 
 <div align="center">
-  ⚡ <strong>PreviewDesktop</strong>
+  ⚡ <strong>Preview WEB Desktop</strong>
 <br>
 <br>
 <img width="100%" src="preview/desktopproffy.gif" />
@@ -41,7 +41,7 @@ Aonde possível encontrar alunos ou encontrar o professor para aquela aula sobre
 ---
 
 <div align="center">
-  ⚡ <strong>PreviewMobile</strong>
+  ⚡ <strong>Preview WEB Mobile</strong>
 <br>
 <br>
 <img src="preview/mobileproffy.gif" />
