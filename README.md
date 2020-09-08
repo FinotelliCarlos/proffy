@@ -33,7 +33,7 @@ Aonde possível encontrar alunos ou encontrar o professor para aquela aula sobre
 ---
 
 <div align="center">
-  ⚡ <strong>Preview WEB Desktop</strong>
+  ⚡ <strong># Preview WEB Desktop</strong>
 <br>
 <br>
 <img width="100%" src="preview/desktopproffy.gif" />
@@ -41,7 +41,7 @@ Aonde possível encontrar alunos ou encontrar o professor para aquela aula sobre
 ---
 
 <div align="center">
-  ⚡ <strong>Preview WEB Mobile</strong>
+  ⚡ <strong># Preview WEB Mobile</strong>
 <br>
 <br>
 <img src="preview/mobileproffy.gif" />
@@ -50,7 +50,7 @@ Aonde possível encontrar alunos ou encontrar o professor para aquela aula sobre
 --- 
 
 <div align="center">
-  🚀 <strong>Tecnologias utilizadas</strong>
+  🚀 <strong># Tecnologias utilizadas</strong>
 </div>
 <br>
 
@@ -66,7 +66,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 --- 
 
 <div align="center">
-  ⌨ <strong>Como executar o projeto</strong>
+  ⌨ <strong># Como executar o projeto</strong>
 </div>
 <br>
 
