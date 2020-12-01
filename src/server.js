@@ -17,4 +17,4 @@ server
 .get("/give-classes", pageGiveClasses)
 .post("/save-classes", saveClasses)
 
-.listen(5000);
+.listen(process.env.PORT || 5000);
