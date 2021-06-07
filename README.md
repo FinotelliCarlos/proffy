@@ -84,6 +84,7 @@ npm install
 npm run dev
 ```
 
-Feito isso, abra o seu navegador e acesse `http://localhost:5000/`
+Feito isso, abra o seu navegador e acesse `http://localhost:5000/`<br>
+  Também é possivel acessar o projeto diretamente clicando [aqui](https://app-plataformaproffy.herokuapp.com/).
 
 ---
